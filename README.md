@@ -7,7 +7,7 @@
 ## 🧭 Sobre mim
 
 Sou uma profissional em transição de carreira para o universo de dados.  
-Atualmente atuo com freelas administrativos, tradução e transcrição, mas estou construindo uma nova trajetória com foco em análise de dados.
+Atualmente atuo com freelas administrativos e transcrição, mas estou construindo uma nova trajetória com foco em análise de dados.
 
 Estou cursando graduação em Gestão Financeira, técnico em Contabilidade e me desenvolvendo em ferramentas como Excel, Power BI e SQL — com projetos práticos aplicados desde o início.
 
